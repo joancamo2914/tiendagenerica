@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+h1{
+  background:#c0c0c0; 
+  width :100%;
+  color:rgb(255, 255, 255) ;
+  font-family: Arial;
+  font-weight:normal;
+  font-size: 110%;
+  height : 20px ;
+  margin:0px;
+  padding:12px 12px;  
+  margin-bottom: 2px;
+	  
+
+}
+#menu ul{
+  list-style:none;
+  margin:0;
+  padding:0;  
+  margin-bottom: 2px;
+}
+#menu #item{
+    float:left;
+}
+#menu #item a {
+    color:rgb(201, 201, 201);
+    padding: 5px 10px;
+    display:block;
+	font-family: Arial, Helvetica;
+    font-size:16;
+    text-decoration:none;
+    
+}
+#menu #item a:hover {
+  color: black;
+  background-color: rgb(241, 241, 241);
+  
+}

@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+h1 {
+	text-align: center;
+	font-size: 110%;
+	font-family: Arial;
+	color: rgb(201, 201, 201);
+	font-weight:normal;
+}
+
+
+table{
+	margin: 0px auto ;
+	font-family: Arial;
+	font-size: 90%;
+	color: rgb(201, 201, 201);	
+}
+
+.cuadro{
+	border: 1px solid rgb(201, 201, 201);
+	width:120px;
+}
+.boton{
+	font-weight: normal;
+    font-size: 100%;
+	font-family: Arial;
+	color:white;
+    cursor: pointer;
+    padding: 8px;
+    margin: 0 10px 30px 0;
+    border: 1px solid #ccc;
+    background: rgb(201, 201, 201) ;
+    border-radius: 8px 8px 8px 8px;
+    
+}
+
+.boton:hover {
+    background: #ddd;
+}
